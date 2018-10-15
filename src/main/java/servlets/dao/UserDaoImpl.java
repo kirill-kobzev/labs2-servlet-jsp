@@ -2,8 +2,6 @@ package servlets.dao;
 
 import servlets.connectionManager.ConnectionManager;
 import servlets.connectionManager.ConnectionManagerJdbcImpl;
-import servlets.pojo.City;
-import servlets.pojo.Student;
 import servlets.pojo.User;
 
 import java.sql.Connection;
